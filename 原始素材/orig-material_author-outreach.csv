@@ -1,0 +1,414 @@
+pdf_filename,paper_id,OA_data_shared,OA_code_shared,OA_source_data_shared,OA_notes_external,OA_notes_internal,flagged
+Villadsen_JournPubAdRes_2011_5E2q,5E2q,no,no,NA,NA,NA,NA
+Rozenkrants_JournConsRes_2017_5JE,5JE,no,no,NA,NA,"There is a link, but it looks like to me it was to view the qualtrics survey itself not data or code, however, I can't access it so could you take a look just to make sure https://stanfordgsb.ca1.qualtrics.com/jfe/preview/SV_9NV7HmXcBsIMrTn?Q_SurveyVersionID=current&Q_CHL=preview --- yep, no data or code shared",NA
+Kyzar_ExChildren_2016_5KEz,5KEz,no,no,NA,NA,Address not found. Looks like they may not have recieved a request for data/code,NA
+Crossley_OrgBehavior_2009_5Xaw,5Xaw,no,no,NA,NA,NA,NA
+Kennedy_OrgBehavior_2013_5Xeq,5Xeq,no,no,NA,NA,NA,NA
+Fredslund_SocSciMed_2018_74VJ,74VJ,no,no,NA,NA,NA,NA
+Dant_JournAcaMarkSci_2013_1VbB,1VbB,no,no,NA,NA,NA,NA
+Zhang_ExpEco_2009_1VeW,1VeW,no,no,NA,NA,NA,NA
+Navarrete_EvoHumanBehavior_2010_1X9W,1X9W,no,no,NA,NA,NA,NA
+Zelle_LawHuman_2015_25Yg,25Yg,no,no,NA,NA,NA,NA
+RODRIGUEZ_Criminology_2009_2bGO,2bGO,no,no,NA,NA,NA,NA
+Triana_JournOrgBehavior_2009_347d,347d,no,no,NA,NA,NA,NA
+Filgueiras_covid_3NqJ,3NqJ,no,no,NA,NA,NA,NA
+Gallimore_JournEnvPsych_2011_421B,421B,no,no,NA,NA,Shared syntax written as text in the email body,NA
+Wissmath_covid_4N88,4N88,no,no,NA,NA,NA,NA
+Paarlberg_PubAdminRev_2016_4RBv,4RBv,no,no,NA,NA,NA,NA
+Reniers_Demography_2012_4ry8,4ry8,no,no,yes,NA,"""Probably the most efficient way to proceed is to obtain the datafiles from the DHS as there are all publicly available."" Provided link to publicly available source data",NA
+Scholes_PsychMed_2010_4wGq,4wGq,no,no,NA,NA,NA,NA
+Pfattheicher_JournPerSocPsy_2018_521q,521q,no,no,NA,NA,NA,NA
+Hartmann_JournEnvPsych_2010_52WE,52WE,no,no,NA,NA,NA,NA
+Chatterjee_JournConsRes_2012_598w,598w,no,no,NA,NA,NA,NA
+Mironova_JournExpPoliSci_2014_59Rq,59Rq,yes_private,yes_private,NA,NA,"""Attached are the online appendix for the manuscript, replication data and instructions in stata, and a summary of the analysis script for JEPS Table 1 Amount Sent to Out-groups. """,NA
+Raver_JournAppPsych_2010_59bm,59bm,no,no,NA,NA,NA,NA
+Damian_EurJournPersonality_2017_7R9G,7R9G,no,no,NA,NA,NA,NA
+Berrios_EurJournPersonality_2015_7REZ,7REZ,yes_private,yes_private,NA,NA,"""Attached is the dataset and the corresponding syntax. It may be the case that portions of the code or variable identifiers are unclear. I will be happy to clarify at some point any confusion in this regard.""",NA
+Vermeulen_EurJournPersonality_2010_7RR2,7RR2,no,no,NA,NA,NA,NA
+Adams_AmJourPoliSci_2011_7XwG,7XwG,no,no,NA,NA,NA,NA
+Winters_EduRes_2013_7pBJ,7pBJ,no,no,NA,NA,NA,NA
+Schultz_ManagementSci_2010_83P0,83P0,no,no,NA,NA,"""My apologies, it has been too long and too many moves and too many computers. I do not know where the original data is any longer.""",NA
+Al-Tammemi_covid_8ePX,8ePX,no,no,NA,NA,NA,NA
+de_Fine_Licht_PubAdminRev_2014_8qER,8qER,no,no,NA,NA,NA,NA
+Seethaler_ExChildren_2010_8r3v,8r3v,no,no,NA,NA,NA,NA
+Zhu_JournMarketRes_2009_8w97,8w97,no,no,NA,NA,NA,NA
+Trémolière_Cognition_2012_8wZ0,8wZ0,no,no,NA,NA,"""I had no script regarding the analyses, we merely conducted mixed design analyses of variance, with type of scenario (within-subject) and MS (between-subject) conditions as the independant variables, and the frequency of utilitarian responses as the dependent variable.""",NA
+Kirk_AmJournSocio_2011_8y5X,8y5X,no,no,yes,NA,"""Thanks for your interest in replicating the analysis from my study. The study used U.S. Census data which is freely available, as well as survey data from the Project on Human Development in Chicago Neighborhoods. These latter data may be obtained from ICPSR: https://www.icpsr.umich.edu/web/pages/NACJD/guides/phdcn/community-survey.html. My data use agreement from long ago does not allow dissemination, but you can obtain them from ICPSR. We also used Chicago Police Department homicide data, which is in the public record.""",NA
+Melamed_SocialForces_2013_8zw7,8zw7,yes_private,yes_private,NA,NA,"""I am attaching the data here along with software code. We used Stata for data processing and descriptive statistics. Those scripts are attached. We used SAS to estimate the mixed models/hierarchical statistical models. That code is attached as well.""",NA
+Amsterlaw_ChildDev_2009_9JBX,9JBX,no,no,NA,NA,NA,NA
+DIPIETRO_Criminology_2012_9a3a,9a3a,no,no,NA,NA,"Directed us to source data ""the data used for the article you reference came from the PHDCN and Add Health, both of which are restricted data sets.""",NA
+Ennser-Jedenastik_JournPubAdRes_2016_9m4l,9m4l,yes_private,yes_private,NA,NA,"""Here are the files. They are quite messy (and analyses were performed on an older version of Stata, so not everything may still work ...)""",NA
+Quinn_EduRes_2016_9p01,9p01,no,yes_private,NA,NA,"Directed us to source data ""I’m attaching a zip folder with stata code files for this study.  We used restricted-use data from IES for this study, which requires a restricted-use license, so I’m prohibited from sharing the data files.  But If you read the “read me” doc in the folder, it will explain the replication folder structure and the coding files""",NA
+Fevang_JournLabEco_2014_ADPO,ADPO,no,no,yes,NA,"This OA provided a link to their paper where they say that it describes how to get source data. I'm thinking this would count as a yes to provide instructions on how to access source data but just want to verify with you-- ""The data are, however, accessible through Statistics Norway, provided that the user abides by the confidentiality regulations set by Statistics Norway and national legislation regarding data protection. A brief description of the data and algorithms used, with relevant links, can be found here: https://www.journals.uchicago.edu/doi/suppl/10.1086/673400/suppl_file/11325data.pdf"" --- yes this should count as sharing instructions on how to access data, and looks like it's a link to a supplemental file (though can't access as need institutional access)",NA
+van Gastel_PsychMed_2013_AOQj,AOQj,no,no,NA,NA,"""Thank you for the email. Based on the previous request I investigated the archives Dr van Gasteren left behind about 8 years ago but could not retrieve that information. While I support your efforts, I am sorry to say that I am not in the position to redo the analysis. We are working on getting all the data available in a repository, so in the future replication attempt can make use of that.""",NA
+El Alaoui_JournConsClinPsy_2015_AabX,AabX,no,no,NA,NA,NA,NA
+Andreoni_ExpEco_2015_AgQX,AgQX,yes_private,yes_private,NA,NA,"""I believe this .do file and the .dta file will give you all the Tables and Figures from the paper.""-- Asked for followup",NA
+Lee_EvoHumanBehavior_2018_AvWY,AvWY,no,no,NA,NA,NA,NA
+Radke_PsychologSci_2013_AvmN,AvmN,no,no,NA,NA,NA,NA
+Goncalo_OrgBehavior_2012_Ax1j,Ax1j,no,no,NA,NA,NA,NA
+Abouk_covid_Aze9,Aze9,no,no,NA,NA,NA,NA
+Hyland_covid_Azer,Azer,no,no,NA,NA,Did not recieve PR email,NA
+Gerhold_covid_Azg9,Azg9,no,no,NA,NA,"Did not recieve PR email-- "" Maybe we will not be allowed to share all data due to civil clause restrictions (DARPA is Military Research). ""-- asked for followup",NA
+Montero-Marin_PsychMed_2018_BByQ,BByQ,no,no,NA,NA,NA,NA
+Da_JournFinEco_2009_BKxK,BKxK,no,no,NA,NA,NA,NA
+Kavanagh_covid_BNrQ,BNrQ,no,yes_private,NA,NA,"""Happy to share the script file. See attached. Sadly, I cannot share any data as the distancing measures are proprietary to Unacast, but there's a good chance they'll share them upon request.""",NA
+Duclos_JournConsRes_2013_BaDx,BaDx,no,no,NA,NA,NA,NA
+Persson_AmEcoRev_2018_BbNg,BbNg,no,available,yes,NA,"""Please see the journal website, where all analytic code is already available, as well as information about how to apply for access to the data. ""-- same as the above HELP this one also directs to journal website for how to get access to source code --- Counts as providing info to access data, and changed to ""available"" for code shared as it was found during PR coding",NA
+Niehaus_AmEduResJourn_2014_BlRQ,BlRQ,no,no,NA,NA,NA,NA
+Bhattacharjee_JournPerSocPsy_2017_Br0x,Br0x,no,no,NA,NA,NA,NA
+Locke_JournExpSocPsych_2015_D8e,D8e,no,no,NA,NA,"""Thank you for getting in touch with me. I was contacted about this paper several years ago and provided data back then."" references providing data but I couldn't find it. Could you look into this --- Didn't find any data or code shared",NA
+Dimmock_JournFinEco_2016_Dpxe,Dpxe,no,no,NA,NA,NA,NA
+Zumeta_ExChildren_2012_EAl3,EAl3,no,no,NA,NA,"""I no longer have access to these outputs as this work was done well over a decade ago""",NA
+Biron_JournAppPsych_2012_EGLZ,EGLZ,no,no,NA,NA,NA,NA
+Sussman_HealthPsych_2012_ERRx,ERRx,no,no,NA,NA,NA,NA
+Jeandarme_LawHuman_2017_G4DD,G4DD,no,no,NA,NA,NA,NA
+Park_JournMarket_2018_G7xz,G7xz,no,no,NA,NA,"""Unfortunately, I am not able to share our data with anybody since we received this dataset from a private company and we signed on a non disclosure agreement (NDA). """,NA
+Beike_JournEduPsych_2012_G9gz,G9gz,no,no,NA,NA,"""sorry the student who ran the analysis did not keep copies;  i have already asked her.""",NA
+Lefevre_EurJournPersonality_2013_GNjz,GNjz,no,no,NA,NA,NA,NA
+Srinivasan_Cognition_2010_GXEW,GXEW,no,no,NA,NA,"""I'll do my best to dig these up! To clarify are you looking for data from all experiments from this study or just one or two? (I ask because someone from COS previously asked me for materials to replicate just one of the experiments)""-- had questions but never recieved a response from us",NA
+Zheng_covid_J34B,J34B,no,yes_private,NA,NA,"""Please see attached mplus syntax for our results.""",NA
+Becker_JournOrgBehavior_2015_J40k,J40k,no,yes_private,NA,NA,"""I lost some of the files when I changed institutions and I no longer use the HLM program, but I did find an output file with a version of the syntax. It's not really typical syntax because HLM is menu driven.""-- Would this count as code? --- I think this should count as code shared",NA
+Banerjee_ExpEco_2016_J4W9,J4W9,no,no,NA,NA,NA,NA
+Griffiths_JournExPsychGen_2011_J7ek,J7ek,no,no,NA,NA,NA,NA
+Gómez_JournPerSocPsy_2009_JA3y,JA3y,no,no,NA,NA,"""Now, I have no idea about where I can have these data because we published this paper 12 years ago.I have to search for the original data but unfortunately, this is the worst period of the year for teaching, and I also have to do a lot of bureaucracy for a European Grant, so I have no idea about when I could find these data.I am sorry but I cannot promise anything.""",NA
+Olson_AmEduResJourn_2012_JbNk,JbNk,no,no,NA,NA,NA,NA
+Donaldson_QuartJournEco_2016_Jblv,Jblv,yes_public,yes_public,NA,NA,"""Sure, the replication files are on my coauthor’s homepage, here: https://voices.uchicago.edu/richardhornbeck/.""",NA
+Simione_covid_K3YJ,K3YJ,no,no,NA,NA,NA,NA
+Reh_JournAppPsych_2018_K4ZD,K4ZD,no,no,NA,NA,NA,NA
+BESSEMBINDER_JournFinance_2018_KZ2D,KZ2D,no,yes_public,yes,NA,"""The computer code for the referenced paper resides here: https://data.mendeley.com/datasets/hkxv53gstw/1.The data is proprietary to FINRA, and we are not authorized to make it publicly available.   Requests for data access can be directed to FINRA https://www.finra.org/#/.  """,NA
+Srol_covid_L3Lr,L3Lr,no,no,NA,NA,NA,NA
+Lersch_EurSocioRev_2014_LJXK,LJXK,no,yes_private,yes,NA,"""Attached you find the incomplete Stata code for this project that is still available to me. We cannot share the BHPS and SOEP data. You need to contact the UK Data Archive and the DIW Berlin to obtain the data.""",NA
+Farmer_ExChildren_2011_LR8x,LR8x,no,no,NA,NA,NA,NA
+FOLKE_AmPoliSciRev_2011_LRLx,LRLx,no,no,NA,NA,NA,NA
+Yiend_ClinPsychSci_2015_LmBx,LmBx,no,no,NA,NA,"""Apologies for lateness of this response. I have tried to find this data but sadly have not been able to do so at this point. It was collected a long time ago – way before online repositories and I have moved institutions twice in that period. I know I have the data on a disk somewhere but have been unable to find it.""",NA
+Puspitasari_JournConsClinPsy_2017_LpNB,LpNB,no,no,NA,NA,NA,NA
+Rude_SocialForces_2010_Lr9G,Lr9G,no,no,NA,NA,NA,NA
+Fox_JournLabEco_2009_LyLd,LyLd,no,yes_public,yes,NA,"https://fox.web.rice.edu/computer-code/foxfirmsizereplication_2009.zip I cant get the link to work but it looks like it should. Can you take a look? --- OA shared zip file with code but not data, readme indicates the data have to be accesses separately / some are private",NA
+Ketonen_LearnInst_2018_NPVj,NPVj,no,no,NA,NA,NA,NA
+Wentzel_JournAcaMarkSci_2009_Nj8V,Nj8V,no,no,NA,NA,Shared lots of other materials and had commentary on their disagreement with the SCORE project as a whole-- important to make sure their comments are with the project as they requested,NA
+Mak_ExpEco_2014_NjKj,NjKj,no,no,NA,NA,"""Thank you for your message. However, I am afraid the research was published more than five years ago and we cannot precisely locate the data and other analysis materials, as well as the program. """,NA
+Robinson_EduRes_2011_NrrW,NrrW,no,no,NA,NA,"""Thanks for contacting us. Unfortunately, I don't have those data anymore; but if I did, I wouldn't be able to release them because they are not public-use dat""",NA
+Seale_covid_O3Gy,O3Gy,no,no,NA,NA,NA,NA
+Marinthe_covid_O3N0,O3N0,yes_public,no,NA,NA,"""Concerning the databases, they are already publicly available at the following link (also indicated in the article): https://osf.io/ucf4m/Concerning the analyses, I don't actually have a saved script but all the analyses are detailed in the paper. If ever the script is really necessary, I can do it but I will only be able to send it to you next week I think. """,NA
+Huang_JournMarketRes_2012_OWVv,OWVv,no,no,NA,NA,"""However, we were under a strict NDA for the project and the company data is highly confidential (e.g., the margin data).""",NA
+Netemeyer_JournConsRes_2018_Ow0,Ow0,yes_private,yes_private,NA,NA,"""Please see attached the data and the syntax of studies 1 and 2.The computation of the variables is described in the syntax.""",NA
+Schomerus_PsychMed_2009_P54Y,P54Y,no,no,NA,NA,NA,NA
+Lin_OrgBehavior_2017_P8mJ,P8mJ,no,no,NA,NA,NA,NA
+Karniouchina_JournMarket_2011_P9LY,P9LY,no,no,NA,NA,NA,NA
+Potârcă_JournMarFam_2015_P9O7,P9O7,no,no,NA,NA,NA,NA
+Clark_JournMarFam_2010_P9Vr,P9Vr,no,no,NA,NA,NA,NA
+Mawritz_JournAppPsych_2014_PK3K,PK3K,no,no,NA,NA,NA,NA
+Seuntjens_JournPerSocPsy_2015_PNPz,PNPz,no,no,NA,NA,NA,NA
+Combs_JournManage_2009_PVea,PVea,no,no,NA,NA,NA,NA
+FANG_JournFinance_2014_PX47,PX47,yes_private,yes_private,NA,NA,I'm thinking this was a private dropbox link but I don't know for sure. Can you look into it? https://www.dropbox.com/s/hfzjtcrv38653qn/Codes%20and%20data.zip?dl=0&file_subpath=%2FCodes+and+data --- Confirmed that this is private link to data and code,NA
+Gârleanu_RevFinStudies_2011_PlDa,PlDa,no,no,NA,NA,NA,NA
+Palardy_AmEduResJourn_2013_PxgJ,PxgJ,no,no,NA,NA,"""My apologies, but I no longer have the original data. """,NA
+Bröckel_EurSocioRev_2015_PyYd,PyYd,no,no,NA,NA,NA,NA
+Tobin_WorldPolitics_2010_QPka,QPka,no,no,NA,NA,"""I believe I found the archived data and code for this file. The problem is that the code is a program no longer supported by Stata (rare events logit--which is also no longer a recommended routine) so it is impossible to run and test if this was the final code for the paper. Because of that, I do not believe a replication would be appropriate."" but did not share",NA
+HAN_AmPoliSciRev_2016_Qj9a,Qj9a,no,no,NA,NA,NA,NA
+Sun_JournExPsychGen_2017_Qk5P,Qk5P,yes_private,yes_private,NA,NA,"""To the best of my knowledge these are all the files that comprise the original data and analysis. However, this data was collected several years ago, and I have since left the lab and my Matlab license is expired. I've re-read the code, but please note that I have not run them prior to sending them to you.'",NA
+Usta_JournMarketRes_2011_R8RN,R8RN,no,no,NA,NA,NA,NA
+Ishida_SocSciMed_2010_R9dv,R9dv,yes_private,yes_private,NA,NA,"""Please find attached three files:Original dataset of the 2008 Reproductive Health Survey in stata format.Stata do.file (titled “clean”) which documents the ways in which I prepared the analytic dataset using the original dataset, creating variables for the analysis Stata do.file (titled analysis_2) which documents the ways in which I analyzed the above analytic dataset.""",NA
+Bottge_ExChildren_2014_RY0E,RY0E,no,no,NA,NA,NA,NA
+Cherlin_AmSocioRev_2016_Rjzv,Rjzv,no,no,NA,NA,"""I have retired from Johns Hopkins, and I no longer have these data.  I completed this project before the placing of data in archives such as the COS was common in sociology.  For my more recent project, I have placed the data in COS.  I could provide you with information about that project if you would like.""",NA
+Boehmer_RevFinStudies_2013_RlQL,RlQL,no,no,NA,NA,NA,NA
+Reis_AmEduResJourn_2011_RmaL,RmaL,no,no,NA,NA,NA,NA
+Marguc_JournPerSocPsy_2011_RpLp,RpLp,no,no,NA,NA,NA,NA
+Chung_JournFinEco_2014_RrOb,RrOb,no,no,NA,NA,NA,NA
+Neshat-Doost_ClinPsychSci_2013_RxK7,RxK7,no,no,NA,NA,NA,NA
+Mao_CompEdu_2010_V54A,V54A,no,no,NA,NA,NA,NA
+Edelman_OrgSci_2015_VAOA,VAOA,no,no,NA,NA,NA,NA
+Lowe_JournMarketRes_2017_VGAe,VGAe,yes_private,yes_private,NA,NA,"""Attached you’ll find an excel file with all of the data. The data for each study is found in a different tab, with a brief note regarding the primary analysis for each on the first tab. I’ve highlighted the focal variables on each tab (IVs and DVs). I figured excel would be the most easily usable regardless of stats software (I use SPSS).You’ll also find attached the syntax and replicated results from all analyses in the results sections in the paper, in order of study and in order of how it’s reported in the paper""",NA
+Subramanian_ManagementSci_2013_VOwm,VOwm,no,no,NA,NA,"""Thanks for your email.  I’m really sorry, but I’m afraid that I no longer have the data and code.  The analysis was done over 12 years ago when cloud storage wasn’t easily available.""",NA
+Iversen_WorldPolitics_2009_Vdje,Vdje,no,no,NA,NA,NA,NA
+Karraker_JournMarFam_2013_Vj0p,Vj0p,no,no,NA,NA,NA,NA
+Morewedge_JournExPsychGen_2009_VjYA,VjYA,no,no,NA,NA,NA,NA
+Zhou_JournExPsychGen_2014_VjjX,VjjX,yes_private,no,NA,NA,"Provided a link but I couldn't access. Could you take a look? ""I do not know whether our data are useful. I just uploaded some data to the Mendeley Data as a draft, which may be published later. If you like, you can check the following temporary link: https://data.mendeley.com/datasets/xkg8bt5zf3/draft?a=1db23427-b7cc-476a-a7af-db6a6917cb43"" --- Verified that OA uploaded data to the link; seems to be private for now",NA
+Hurst_JournEnvPsych_2013_Vpgm,Vpgm,no,no,NA,NA,NA,NA
+Hawdon_SocialForces_2011_VrD1,VrD1,no,no,NA,NA,"""Sorry for my delayed response, but I was checking to see if we are allowed to share the data from this study.  Unfortunately, we are prohibited from sharing of these data.""",NA
+Janssen_ExpEco_2011_VvZX,VvZX,no,no,NA,NA,""" I do not recall we have stored scripts of the analysis, but our published analysis should – hopefully – be sufficient in detail to reproduce the analysis.""",NA
+Johnson_JournOrgBehavior_2012_VvlD,VvlD,yes_private,yes_private,NA,NA,"""Here is the de-identified dataset. We do not mind if you do a replication study."" ""I have attached two syntax files, but cannot guarantee that they include everything that would be needed to reproduce the analyses.""",NA
+Vega_covid_W3EN,W3EN,no,no,NA,NA,NA,NA
+Moran_PsychMed_2011_WKWz,WKWz,no,no,NA,NA,NA,NA
+Lewis_QuartJournEco_2011_WLYr,WLYr,no,no,NA,NA,"""That 2011 QJE study uses data and programs that were stored confidentially on a Census RDC computer.  The data and programs are thus not publicly accessible.""",NA
+Molenberghs_JournManage_2017_WQxz,WQxz,no,no,NA,NA,"""Given that it is fMRI data, it is not something I can just email as the data is too large. Also the Center for Open Science, limited the amount of data that can be uploaded to OSF. For example, I spent weeks uploading fMRI data from another experiment to this page: https://osf.io/gtquh/, only to be told afterwards that the amount that is allowed to be uploaded is now reduced. If you can increase the amount to that page and provide me an alternative page where I can also upload the fMRI data for this experiment (so another page with increased storage), I can try to upload it but it will take some time. """,NA
+Craw_PubAdminRev_2017_WlYz,WlYz,no,no,NA,NA,"NEEDS POSSIBLE RESPONSE ""Apologies for being slow in responding to your request.  Would a response from me on this still be helpful?  I am getting caught up over our spring break and I think I would have time now to track down the data and code you have requested if you could still use it.""",NA
+Midei_HealthPsych_2009_XZXv,XZXv,no,no,NA,NA,"""I am not sure what data you are asking for – to release data we need to have you set up a DUA through your institution with U of Pittsburgh plus get IRB to allow data sharing.  We then will have to prepare the data and put it in a share file that is encrypted.  This will take some time.""",NA
+Gutiérrez_EvoHumanBehavior_2013_XpVw,XpVw,no,no,NA,NA,NA,NA
+Malik_covid_Y3jx,Y3jx,no,no,NA,NA,NA,NA
+Guha_JournBusRes_2017_YAXQ,YAXQ,no,no,NA,NA,NA,NA
+Raby_ChildDev_2015_YOmK,YOmK,no,no,NA,NA,NA,NA
+Paxson_SocSciMed_2012_ZY0a,ZY0a,no,no,NA,NA,NA,NA
+Anderson_ManagementSci_2018_ZaZK,ZaZK,no,no,NA,NA,NA,NA
+Karwowski_covid_a3mO,a3mO,yes_public,no,NA,NA,"""Polish and US datasets along with questionnaires are available on osf: https://osf.io/ynd6r/ There are no code / syntax, as sequential mediation was conducted using Hayes process for SPSS that is point-and-click. """,NA
+Monahan_LawHuman_2011_a8OO,a8OO,no,no,NA,NA,NA,NA
+Watson_JournAppPsych_2013_a8zB,a8zB,no,no,NA,NA,NA,NA
+Popper_LeadQuart_2009_aYyR,aYyR,no,no,NA,NA,NA,NA
+Paillé_JournEnvPsych_2016_amLY,amLY,no,no,NA,NA,NA,NA
+Job_ContEduPsych_2012_bVz9,bVz9,no,no,NA,NA,NA,NA
+STAFF_Criminology_2015_d2O3,d2O3,no,no,yes,NA,"""Regarding data sharing, we are not the owners of the  Millennium Cohort Study (MCS) data and thus are not permitted to share the data with any other investigators or institutions.  We imagine that you will need to register your research project with the UK Data Archive and arrange to download it through their website. Here is the link for your investigators: https://www.data-archive.ac.uk/Regarding analyses, we relied on the statistical programs Latent Gold and Stata. Latent Gold is available for download here: https://www.statisticalinnovations.com/latent-gold-5-1/, and Stata here: https://www.stata.com/""",NA
+Duriez_EurJournPersonality_2012_d5v3,d5v3,no,no,NA,NA,NA,NA
+Çakmaklı_AmJournSocio_2017_dGX2,dGX2,no,no,NA,NA,NA,NA
+Mukherji_covid_dPz2,dPz2,no,no,NA,NA,NA,NA
+RAMEY_Criminology_2016_dmqV,dmqV,no,no,yes,NA,"""All the data I used can be downloaded at https://www.nlsinfo.org/investigator.""",NA
+Muis_ContEduPsych_2009_dqKX,dqKX,no,no,NA,NA,NA,NA
+Kenyon_covid_eBRm,eBRm,no,no,NA,NA,NA,NA
+Welling_EvoHumanBehavior_2011_eKv9,eKv9,no,no,NA,NA,"""Unfortunately, I no longer have these data, but I wish you luck with your study.""",NA
+Mason_JournExPsychGen_2012_eOQm,eOQm,no,no,NA,NA,NA,NA
+Long_JournEnvPsych_2015_eRbK,eRbK,no,no,NA,NA,"""I thought we would have been able to do this, but having looked at the wording of our consent forms, it is not possible to share the students’ data. For what it is worth, I fully support the open science movement and I’ll be changing the wording on consent forms in future to make this kind of data sharing possible.""",NA
+De Dreu_JournAppPsych_2009_eg0Q,eg0Q,no,no,NA,NA,"""Dear Team — these datasets are over 17 years old and poorly archived (it was all collected well before OA became en vogue). Some data also couldn’t be archived b/c of then practiced privacy rules at companies where we collected data. I am sorry I cannot be more helpful in this particular case""",NA
+Cutright_JournConsRes_2011_eg3p,eg3p,no,no,NA,NA,"""One member of our research team has a blanket policy of distributing data only through the relevant journal’s request, but if you would like us to relay the results of any specific analyses, we are happy to discuss those analyses with you.""",NA
+Gabriel_JournAppPsych_2011_egX9,egX9,no,no,NA,NA,NA,NA
+Morgan_EduRes_2012_eldl,eldl,no,no,NA,NA,NA,NA
+Alexander_Demography_2017_epBK,epBK,no,no,NA,NA,"""Unfortunately we cannot provide that data. It is restricted access data that requires very strict requirements for safeguarding it given that it is individually-identifiable, full-count data. To gain access, we had to have background checks, interviews with the FBI, and house the data and analysis files at a restricted data center that are not allowed to be removed for any reason from the center. Now that the project is completed, we no longer have access to the data or files.""",NA
+Tsay_OrgBehavior_2014_exd7,exd7,yes_private,yes_private,NA,NA,"""Please find attached the original data (password-protected) and analytic syntax for the analyses and results reported in the paper, as requested. """,NA
+Cohen_OrgSci_2016_eydQ,eydQ,no,no,NA,NA,"""I just wanted to reply that we are happy to share the data but none of us has had – or will soon have – the additional hours to pull and document what you’ve requested. Is there a date by which we can get you the data later in the fall semester?""",NA
+Bellemare_ExpEco_2010_g3e9,g3e9,no,no,NA,NA,NA,NA
+Koseoglu_LeadQuart_2017_gYpO,gYpO,no,no,NA,NA,NA,NA
+Torelli_JournPerSocPsy_2010_gbAY,gbAY,yes_private,yes_private,NA,NA,"This one has a lot of info. I'm having a hard time piecing together if the code provided is code to build survey stuff or actual analytic code/if we count if they reconstructed analytic code for SCORE rather than were able to find it in their records and also if there is any data since it sounds like they threw out the paper surveys but that there may be electronic copies? --- Looks like OA shared data (but perhaps not raw data) and output and program files that seems to contain code, so I think this will count as sharing data and code.",NA
+Campbell_JournPerSocPsy_2013_gbg4,gbg4,no,no,NA,NA,NA,NA
+Ståhl_JournPerSocPsy_2012_gbl9,gbl9,no,no,NA,NA,NA,NA
+Oberfield_JournPubAdRes_2010_gl2O,gl2O,no,no,NA,NA,"""Unfortunately, due to IRB regulations, I am unable to share these data.""",NA
+Howard_LawHuman_2013_gwrg,gwrg,no,no,NA,NA,"""I'm afraid I can't share anything: the datasets no longer exist due to UK government data deletion guidelines and the code was likely discarded along with the data (we now use different coding languages).""",NA
+Buchner_EvoHumanBehavior_2009_j2yd,j2yd,no,no,NA,NA,NA,NA
+Hasan_AmSocioRev_2013_jD94,jD94,no,no,NA,NA,NA,NA
+Shirako_OrgBehavior_2015_jDGN,jDGN,no,no,NA,NA,""" I think I may have noted this before -- I was not responsible for collecting or analyzing the studies in the paper, with the exception of the very last one.  The other author who did has been out of Academia since 2013. """,NA
+Biernat_JournExpSocPsych_2013_jLr,jLr,yes_private,yes_private,NA,NA,"""Found the data file on my external back-up! I'm attaching it here, along with the SAS code we used for analyzing (let me know if you need the SAS file in text form). As I noted in my prior email, I'd prefer to keep the data file relatively private, in that the IRB indicated the data would be shared only by the research team.""",NA
+Murayama_ChildDev_2013_jX9r,jX9r,yes_private,yes_private,NA,NA,NA,NA
+Goldhaber_EduRes_2015_jrg2,jrg2,no,no,NA,NA,"""Unfortunately I cannot share the data as it is governed by data sharing agreements with both Washington and Oregon.""",NA
+Kang_JournFinEco_2018_k0XG,k0XG,no,no,NA,NA,"""My co-authors and I are sorry for informing that due to data privacy concerns and copyright restrictions for the data, we are not able to provide the data. """,NA
+Cooper_ExpEco_2018_kEZZ,kEZZ,no,no,NA,NA,"""You don't mention it, but I can also share the data file and do file that were used to generate the regression reported in Table 6 if this is required.""",NA
+Feuth_covid_kOGW,kOGW,no,no,NA,NA,NA,NA
+Noah_JournMarFam_2018_km2j,km2j,no,no,NA,NA,NA,NA
+Rubin_LeadQuart_2010_lJ0w,lJ0w,no,no,NA,NA,NA,NA
+Kuwabara_AmJournSocio_2015_lYpL,lYpL,yes_private,yes_private,NA,NA,"""Here are the code and data.""",NA
+Ma-Kellams_PsychologSci_2011_lkBL,lkBL,no,no,NA,NA,NA,NA
+Onyper_JournExPsychGen_2010_lyJJ,lyJJ,no,no,NA,NA,NA,NA
+Purciel_JournEnvPsych_2009_m1DV,m1DV,no,no,NA,NA,"""I am sorry, but I'm not able to participate as I don't have access to the original data or code.""",NA
+Ballard_JournAppPsych_2016_mBL1,mBL1,yes_private,yes_private,NA,NA,"""Attached is a folder that contains the materials required to run the experiment. It requires a MATLAB installation with psychtoolbox. To run the experiment, open the mainExp_T4.m file and click the run button. The program outputs a .xls file containing the participant's data. Once all participants are run, put all the .xls files into one folder and run the ""T4_compiler.m"" script. This outputs (among other things) an excel file called ""T4 Master Data"". The dynamic programming decisions can be generating using the collection of scripts in the compressed ""Dynamic Programming - Simulation"" folder. To do this, open and run the ""B_SimDP_4.m"" script.  This outputs a dataset called ""DP Data.csv"" which contains the observed and optimal decisions, and is the file used to run the analyses in the paper. The analyses were run in R, using the script attached.""",NA
+Guajardo_ManagementSci_2016_mqL1,mqL1,yes_private,yes_private,NA,NA,"Couldn't access the drive that was sent ""Thanks for reaching out. Please find data and code here: https://drive.google.com/drive/folders/1YQ9nuwrpDc3ckRmxwVtNBN9jk4yZi4Ck?usp=share_link In line with your note, indeed these materials should remain private (The data include restricted licensed sources/paid suscriptions, and it can’t be distributed, posted, etc.)"" --- I couldn't access either as the link is likely expired, but no reason to believe they didn't share the data and code with us in the first place as they indicated, so we will count this as data and code shared",NA
+Bruning_OrgBehavior_2018_mxjm,mxjm,no,no,NA,NA,NA,NA
+Pearce_OrgSci_2012_p02d,p02d,no,no,NA,NA,"""My student at the time did the analyses and I am now retired and no longer have access to that data.""",NA
+Huang_LearnInst_2011_p50E,p50E,no,no,NA,NA,"""the original data for this paper are all with the first author of the paper, Hsin-Mei E. Huang.""",NA
+BUTTON_Criminology_2017_pN7E,pN7E,no,no,NA,NA,NA,NA
+McCarter_OrgBehavior_2010_plLK,plLK,no,no,NA,NA,"""Unfortunately Dr. McCarter passed away this past year.  I'm sorry we cannot be of further assistance.  """,NA
+Smieskova_PsychMed_2012_pvzd,pvzd,no,no,NA,NA,NA,NA
+Holmgren_JournPubAdRes_2018_q1Jw,q1Jw,no,no,NA,NA,NA,NA
+Lam_JournMarket_2010_q5AN,q5AN,no,no,NA,NA,NA,NA
+Chevallier_covid_qKPg,qKPg,no,no,NA,NA,""" I thank you for conducting this project which is undoubtedly important, however I have to notify you that my project on OSF is not actually a preprint but a pre-registration (I am sorry if I mistakenly tick the 'preprint' case). Therefore, I am afraid that my document does not actually fit your requirements. """,NA
+Allen_JournExpPoliSci_2016_qND2,qND2,no,no,NA,NA,NA,NA
+Lindsey_JournAppPsych_2017_qNvQ,qNvQ,no,no,NA,NA,NA,NA
+Durand_AcaManageJourn_2012_qQLg,qQLg,no,yes_private,NA,NA,"""Following your request, and after checking the different agreements signed with the data providers used for this project (CNC, BOC, others), unfortunately we are not able to share the data. However, we see no particular issue with privately sharing the do.file we used and we attach it to this email.""",NA
+Sheafer_CompPolitStu_2011_qY4z,qY4z,yes_private,yes_private,NA,NA,"""Following your request please find the attached files for Sheafer, Shenhav and Goldstein (2011):1. An SPSS SAV file ""Narrative Proximity_statistical models"". 2. A PDF file with some additional explanations.3. An SPSS output file (with syntax commands) for the statistical analysis of the Likud party - to demonstrate how statistical analysis was performed.""",NA
+Parks-Stamm_JournExpSocPsych_2010_qZZ,qZZ,no,no,NA,NA,NA,NA
+Hodara_AmEduResJourn_2016_qk5w,qk5w,no,no,NA,NA,NA,NA
+Sun_LeadQuart_2013_qkVv,qkVv,no,no,NA,NA,"""However, you ask to offer data and code of a paper published over tenyears ago. Did we use code that time as a usual practice as today? For example, how many papers were published that time that used Mplus to conduct multi-level moderattion medaition? Did we have a tool that documents saved can be reopened over a decade ago without any problems? Several weeks ago, I tried to open files saved in some of U-disks but failed. Lucily the one I want to find is still alive. In the case, I would like to share data and code for recent publications. """,NA
+Córdova_WorldPolitics_2016_qqNN,qqNN,no,no,NA,NA,NA,NA
+Sloane_PsychologSci_2012_ree8,ree8,no,no,NA,NA,NA,NA
+Kang_JournExpSocPsych_2009_rpq,rpq,no,yes_private,NA,NA,"""It's been soooooo long, but I think this is what you're looking for. It says psych science in the file name because we submitted there before JESP.""",NA
+Wu_SocSciMed_2015_rrQ8,rrQ8,no,no,NA,NA,NA,NA
+Piwek_Cognition_2014_rvyb,rvyb,no,no,NA,NA,NA,NA
+Reinhart_PsychologSci_2016_rwy8,rwy8,no,no,NA,NA,"Did a quick internet search and couldn't find it could you take a look? ""I think the code is already on OSF. Correct?""  --- There is code on OSF but it's matlab code to run the experiments, not analytic code. So no data or code shared.",NA
+Hildebrand_JournMarketRes_2014_v3ED,v3ED,no,no,NA,NA,NA,NA
+Christensen_RevFinStudies_2016_v7QG,v7QG,yes_private,yes_private,NA,NA,"""The attached zip file contains the following files and information.1.       Data Download Steps for CHL 2016.docx (This file explains how we downloaded and created the firm-year data set)2.       Sample Selection Table CHL RFS 2016 (This file explains how we restricted the data set for the regression analysis)3.       Stata data set with DSCODE COUNTRY YEAR QRTR CHL 2016.dta (This file gives you the identifiers for the 112,260 observations that entered our main analysis)4.       Variable Definitions and Main Regression Code for CHL RFS 2016.docx (In this file, we combine the code for the variables and the main regression)5.       SAS code that generates one of the variables (02_ldv_est.sas)""",NA
+Zhang_JournMarket_2017_v8yG,v8yG,no,no,NA,NA,NA,NA
+Ryall_ManagementSci_2009_vGNa,vGNa,no,no,NA,NA,NA,NA
+Fombelle_JournAcaMarkSci_2012_vR3L,vR3L,no,no,NA,NA,NA,NA
+Cameron-Faulkner_JournEnvPsych_2018_vRJa,vRJa,no,no,NA,NA,NA,NA
+Gibson_SocialForces_2017_vkAL,vkAL,no,no,NA,NA,NA,NA
+Vukovic_ContEduPsych_2013_vkYO,vkYO,no,no,NA,NA,NA,NA
+Kausel_OrgBehavior_2011_vl2L,vl2L,no,no,NA,NA,NA,NA
+Bezu_WorldDev_2012_vmxO,vmxO,no,no,NA,NA,NA,NA
+Perrotta_covid_vy8p,vy8p,no,no,NA,NA,NA,NA
+Muto_covid_vyRx,vyRx,no,no,NA,NA,NA,NA
+MIRONOV_JournFinance_2013_w4bG,w4bG,no,no,NA,NA,NA,NA
+Adachi_ChildDev_2016_wXGd,wXGd,no,no,NA,NA,NA,NA
+Gueguen_JournEnvPsych_2012_wvmd,wvmd,no,no,NA,NA,NA,NA
+Vollmann_EurJournPersonality_2011_x3KP,x3KP,no,yes_private,NA,NA,"""I can share my syntaxes and old files with you, however, I would like to strongly encourage the researchers to train themselves in dyadic data analysis if they want to analyse data from couples as this is the only appropriate way of analysing dyadic data.""",NA
+Caspi_ClinPsychSci_2014_xJXb,xJXb,yes_private,yes_private,NA,NA,"Couldn't get the link to work. Can you take a look? ""This email is in response to your request for the data and code from Caspi 2014, Clinical Psych Science.We use a Duke version of Box to share data. I have set up a project folder for you there and you will receive an invitation to join. Occasionally outside collaborators are unable to access the system. If so, we'll find another way to share the data and code.The DukeBox link to your data folder is; https://duke.box.com/s/e5hl0nbbdkaatvzbjd58vlsmy7gn0el2In the folder you will find;"" --- Confirmed in Asana that both data and code were accessed via the Box link the OAs sent us.",NA
+Abdelrahman_covid_xLvN,xLvN,no,no,NA,NA,NA,NA
+Balas_JournExPsychGen_2015_xOYL,xOYL,no,no,NA,NA,"""I would be happy to send along raw data after Dr. Thomas and I are able to put everything together. My apologies for not including that here, but it sounded like the protocol information was more important to get to you sooner."" could not find these materials in inbox could you double check? --- Confirmed that OA sent other materials and was willing to send data and code, but seems they never got around to sharing. So no data or code shared.",NA
+Korn_PsychMed_2014_xklO,xklO,no,no,NA,NA,""" Since this project involved patients and since data sharing was not included in our ethics application back then, I am unfortunately not able to share the data.""",NA
+Thomas_JournPerSocPsy_2014_xvrb,xvrb,no,no,NA,NA,"""I'd also be happy to provide data, or anything else that could be helpful or useful, but that will take quite a bit more time to dig out and organize so that someone else can interpret it"" Did not find shared data",NA
+Colgan_WorldPolitics_2013_y2DG,y2DG,yes_public,yes_public,NA,NA,"""That paper uses my Revolutionary Leaders dataset, on my website. I believe the code is up too jeffcolgan.com/data """,NA
+Maeda_CompPolitStu_2012_yBgO,yBgO,yes_private,yes_private,NA,NA,""" The attached files are my Stata do file and Stata data file to replicate the empirical results in my 2012 paper""",NA
+Pappu_JournAcaMarkSci_2014_yDyG,yDyG,no,no,NA,NA,"sent lots of other materials, but no data or code",NA
+Lai_Cognition_2011_zNEm,zNEm,no,no,NA,NA,NA,NA
+van Ginkel_LeadQuart_2012_zbgL,zbgL,no,no,NA,NA,NA,NA
+Fritz_JournOrgBehavior_2010_zekm,zekm,no,no,NA,NA,"""I currently don't have the capacity to dig up this data.""",NA
+Dam_RevFinStudies_2012_rbDR,rbDR,no,no,NA,NA,""" Though you do identify a valid claim from our paper, we will not be able to provide the data to replicate the study.The data set we used is owned by the German Bundesbank and highly confidential. We had to drive from Groningen to Frankfurt every time we wanted to work with the data.""",NA
+Dusseldorp_HealthPsych_2014_qzGw,qzGw,no,no,NA,NA,NA,NA
+Kline_AmEcoRev_2016_GOAw,GOAw,no,available,NA,NA,"I tried to access the code where they said it was "". All code for the project is on the AER website."" but when I google the paper I can't get the AER website to load could you check this out? --- Changed the code shared to 'available' as it was found during PR, and looks like the data is restricted. We did not reach out to OA again as we already had all the info we needed.",NA
+van Dijck_Cognition_2009_zN22,zN22,no,no,NA,NA,NA,NA
+Kuo_Demography_2016_JWzJ,JWzJ,no,no,NA,NA,NA,NA
+Laidlaw_EvoHumanBehavior_2016_9jD4,9jD4,no,no,NA,NA,NA,NA
+Langer_JournConsClinPsy_2011_AaY9,AaY9,no,no,NA,NA,NA,NA
+Lindner_LearnInst_2017_A1Y1,A1Y1,no,no,NA,NA,NA,NA
+Lutz_JournConsClinPsy_2014_4ZxO,4ZxO,no,no,NA,NA,NA,NA
+Lynch_LawHuman_2009_EG8a,EG8a,no,no,NA,NA,NA,NA
+Mannucci_OrgSci_2017_yO4V,yO4V,no,no,NA,NA,NA,NA
+Martin_AcaManageJourn_2016_9KRZ,9KRZ,no,no,NA,NA,NA,NA
+Massacci_ManagementSci_2017_bx79,bx79,no,no,NA,NA,NA,NA
+Messer_BritJournPoliSci_2011_Xb9r,Xb9r,no,no,NA,NA,NA,NA
+Meyer_JournAcaMarkSci_2018_eRwQ,eRwQ,no,no,NA,NA,NA,NA
+Milesi_EduRes_2014_elAp,elAp,no,no,NA,NA,NA,NA
+Minbashian_JournOrgBehavior_2018_BjbQ,BjbQ,no,no,NA,NA,NA,NA
+Moen_SocSciMed_2013_qVGQ,qVGQ,no,no,NA,NA,NA,NA
+Myllyneva_Cognition_2015_3Dla,3Dla,no,no,NA,NA,NA,NA
+Ng_ChildDev_2014_QEam,QEam,no,no,NA,NA,would like to be notified of results,NA
+Niec_JournConsClinPsy_2016_PXbK,PXbK,no,no,NA,NA,NA,NA
+Notebaert_ClinPsychSci_2017_W9PZ,W9PZ,no,no,NA,NA,NA,NA
+Odgers_LawHuman_2010_wmrZ,wmrZ,no,no,NA,NA,NA,NA
+Odom_ExChildren_2013_VYre,VYre,no,no,NA,NA,NA,NA
+Olive_LearnInst_2009_7dx1,7dx1,no,no,NA,NA,NA,NA
+Pais_AmJournSocio_2013_2Ypg,2Ypg,no,no,NA,NA,NA,NA
+Palermo_ContEduPsych_2018_1B3W,1B3W,no,no,NA,NA,NA,NA
+Peña_PsychologSci_2014_LGzz,LGzz,no,no,NA,NA,NA,NA
+Pernell_AmSocioRev_2017_N8zV,N8zV,no,no,NA,NA,NA,NA
+Phan_CompEdu_2016_dJJl,dJJl,no,no,NA,NA,NA,NA
+Powell_ExChildren_2015_Z8Xk,Z8Xk,no,no,NA,NA,NA,NA
+Protik_WorldDev_2018_3G57,3G57,no,no,NA,NA,NA,NA
+Ryan_JournMarFam_2009_g8B9,g8B9,no,no,NA,NA,NA,NA
+Sarvimäki_JournLabEco_2016_p3r0,p3r0,no,no,NA,NA,NA,NA
+Star_ContEduPsych_2015_R0EL,R0EL,no,no,NA,NA,NA,NA
+TOMZ_AmPoliSciRev_2009_Pb9K,Pb9K,no,no,NA,NA,NA,NA
+Tawfik_CompEdu_2018_3rKd,3rKd,no,no,NA,NA,NA,NA
+Taylor_JournExPsychGen_2013_v8Nx,v8Nx,no,no,NA,NA,NA,NA
+Veenstra_ChildDev_2010_mgBL,mgBL,no,no,NA,NA,NA,NA
+Wilson_HealthPsych_2011_xzrk,xzrk,no,no,NA,NA,NA,NA
+Wong_EduRes_2018_brdE,brdE,no,no,NA,NA,NA,NA
+Zhang_AcaManageJourn_2010_Oe5N,Oe5N,no,no,NA,NA,NA,NA
+Zhang_AcaManageJourn_2014_Gdq4,Gdq4,no,no,NA,NA,NA,NA
+del Carmen Triana_JournOrgBehavior_2013_yD1Q,yD1Q,no,no,NA,NA,NA,NA
+Chittoor_OrgSci_2009_kXp8,kXp8,no,no,NA,NA,provided commentary on the replication that should be on OSF,NA
+Bingham_Powell_CompPolitStu_2009_0PZl,0PZl,yes_private,no,NA,NA,"This author was significantly impacted by the covid pandemic and could not provide code for us. They reached out to someone that did an independent replication and were able to send us the original data, but the code that was sent was the replication code and not the original",NA
+BERSANI_Criminology_2013_zmYY,zmYY,no,no,NA,NA,This author was significantly impacted by the covid pandemic and could not interact with us to the level they wished too. They did express concern with the replication.,NA
+O’Brien_AmSocioRev_2015_7X54,7X54,yes_private,yes_private,NA,NA,NA,NA
+Li_WorldDev_2011_2GKO,2GKO,no,no,NA,NA,did not respond to any of our messages,NA
+Montez_Demography_2014_3aPw,3aPw,no,no,NA,NA,did not respond to any of our messages,NA
+Fitzgerald_SocialForces_2018_4q0L,4q0L,no,no,NA,NA,did not respond to any of our messages,NA
+Ahlerup_WorldDev_2016_E5qr,E5qr,no,no,NA,NA,limited time to prepare files for wider sharing,NA
+McLaren_WorldPolitics_2012_wRvv,wRvv,no,no,NA,NA,did not respond to any of our messages,NA
+Teney_EurSocioRev_2016_qXX2,qXX2,no,yes_private,yes,NA,"""he required data to replicate my analyses can be downloaded on  the Gesis repository website. I am not allowed to forward the Eurobarometer data. Enclosed you´ll find the code to combine the different Eurobarometer data waves and the code for the analysis of the ESR piece""",NA
+LOUGHRAN_Criminology_2011_0a3Z,0a3Z,yes_private,yes_private,NA,NA,data and code should not be shared publicly,NA
+Seong_JournManage_2015_3B4j,3B4j,no,no,NA,NA,NA,NA
+Wilde_AmSocioRev_2010_4XLv,4XLv,no,no,yes,NA,"""The data is already publicly available on the American Religion Data Archive (ARDA): http://www.thearda.com/Archive/Files/Descriptions/VATICAN.asp'""",NA
+Maluch_LearnInst_2015_5Awm,5Awm,no,no,NA,NA,did not respond to any of our messages,NA
+Dumas_AcaManageJourn_2018_5KrD,5KrD,yes_private,yes_private,NA,NA,NA,NA
+Linkenauger_PsychologSci_2009_7WjP,7WjP,yes_private,no,NA,NA,can make materials publicly available,NA
+Savani_PsychologSci_2010_88xa,88xa,yes_private,yes_private,NA,NA,"I can't tell if there's code. There are .dta files but I'm not seeing any .do files. ""The original analyses were conducted using SPSS, the HLM program, and various Excel files that were circulating among Stanford psychology graduate students at the time. Unfortunately I did not save any of the SPSS / Excel output, and can only locate some of the HLM output. I re-ran the analyses using STATA - most numbers match (after accounting for rounding errors) but some don't. I have noted the numbers that do not match"" --- I'm inclined to count this as providing code, word doc files were shared containing stata output and code runs, so though actual code files weren't shared and these aren't in a fully reproducible format plus the original analyses were conducted in spss and excel and not stata, it still seems possible to reproduce the analyses with what was provided. Also, Asana indicates that we were able to successfully reproduce the finding (OR = 5), so the code in the word doc files must have been sufficient enough to reproduce. --- Decision: counts as sharing code",NA
+Brough_JournConsRes_2016_9ey,9ey,yes_private,no,NA,NA,NA,NA
+Rovny_WorldPolitics_2014_AQgj,AQgj,yes_private,yes_private,NA,NA,NA,NA
+Waller_JournMarFam_2014_AXBY,AXBY,no,no,NA,NA,NA,NA
+Kim_SocSciMed_2016_AqDO,AqDO,no,no,NA,NA,did not respond to any of our messages,NA
+Vadillo_JournExPsychGen_2016_BrGp,BrGp,no,no,NA,NA,NA,NA
+Raley_JournMarFam_2012_D2LY,D2LY,no,no,NA,NA,NA,NA
+Hoffman_JournAppPsych_2015_DEmL,DEmL,no,no,NA,NA,NA,NA
+LeBoeuf_JournMarketRes_2010_EKBZ,EKBZ,yes_private,yes_private,NA,NA,materials can be shared publicly,NA
+Yang_JournMarketRes_2013_G1Lr,G1Lr,yes_private,yes_private,NA,NA,provided .sps syntax,NA
+Li_LeadQuart_2011_GQvr,GQvr,no,no,NA,NA,did not reply to any of our emails,NA
+ANN SLOCUM_Criminology_2010_JxXe,JxXe,yes_private,yes_private,yes,NA,"""The data used in the analyses are publically available and are archived at ICPSR. The one exception is the neighborhood poverty measure, which was not part of the original data collection effort, and therefore was not archived.  Due to concerns about confidentiality, we will need to work with the PI of the project, Finn Esbensen, to ensure that this variable does not get released publically. I have secured his permission to provide you with the variable in question (along with the data and code), but the variable should not be made publically available, and Finn may have questions about who will have access to it.""",NA
+GROSSMAN_AmPoliSciRev_2014_LyWB,LyWB,no,no,NA,NA,NA,NA
+Cleave_ExpEco_2013_Njqj,Njqj,yes_private,yes_private,NA,NA,NA,NA
+Huijts_EurSocioRev_2013_OY3B,OY3B,no,no,yes,NA,"""The data that I used (European Social Surveys) are publicly available (on europeansocialsurvey.org). This means that in theory you could retrieve the data from the relevant survey round (ESS 6) yourself from there. However, it's important to note that the ESS continues to revise their data after publication (for round 6 I believe they have now reached version 2.4). This means that there may have been changes between the version that is currently available and the version that I used.""",NA
+Roberts_JournEduPsych_2010_OYX0,OYX0,no,no,NA,NA,NA,NA
+LINDQVIST_AmPoliSciRev_2010_OeGv,OeGv,yes_private,yes_private,NA,NA,"""I found the data and STATA do files that we used for our 2010 paper and have verified that they are the correct ones. I have attached a zip file with the data and do files. I included a new text file called “Description.txt” that contains a description of the files.  The zip files contains some data from original sources, for example the Polity IV project, that I don’t think they want to be shared publicly as I suspect they prefer control over how the data is spread. But it should be fine for you to use it for replication purposes of course.""",NA
+Wetzel_EurJournPersonality_2016_Ovkm,Ovkm,yes_private,yes_private,NA,NA,"""I attached the paper on the questionnaire (NARQ) which contains the items, the data for Sample 2, and my R script for the analyses in Table 2 [I removed the code for the other analyses]. The data were collected online using the Unipark platform.""",NA
+PICKETT_Criminology_2014_P1rY,P1rY,yes_private,yes_private,NA,NA,"""They include the exact question wording and question order. Participants were randomly assigned to receive one of the two questionnaires. I've also attached the data and replication code (I've only dropped identifiers). (I'm laughably unsophisticated - the code opens with notepad, and I paste it into Stata.) Please let me know if the replication team needs (or could use) any other information. I am happy to any questions they might have. I've cc'd my coauthor, Thomas Baker, who is also happy answer questions (he ran the SEM analyses).""",NA
+Liao_JournOrgBehavior_2016_PkXJ,PkXJ,no,no,NA,NA,did not reply to any of our emails,NA
+King_JournOrgBehavior_2017_Q1dl,Q1dl,yes_private,yes_private,NA,NA,"""All my responses are in the ""Email responses"" document, and the attachments have all the measures, data, syntax, output you asked for. Happy to help more if I can. """,NA
+Andrews_BritJournPoliSci_2009_Ryq7,Ryq7,yes_private,yes_private,NA,NA,NA,NA
+Bigoni_Econometrica_2015_VBx1,VBx1,no,no,NA,NA,NA,NA
+Woltin_JournExpSocPsych_2011_Wre,Wre,yes_private,yes_private,NA,NA,NA,NA
+Hou_ChildDev_2017_YOXl,YOXl,yes_private,yes_private,NA,NA,"""Please see attached the syntax and output for results presented in Figure 2 of the paper (which are results discussed in the statements you included). I also attached the data for the variables used to produce these results. Please make sure that the data is only available to the COS team to reproduce the results, and should not be available to the public as it is restricted access data.  """,NA
+Ku_JournEnvPsych_2014_YpZZ,YpZZ,yes_private,no,NA,NA,NA,NA
+Swanson_JournEduPsych_2016_e2pq,e2pq,yes_private,yes_private,NA,NA,"""Thank you for responding to my questions--- attach is the major analyses--- attached is the primary data  (allpretest)----also attached is the  MPlus syntax (mediate. As you know n the article two mediation models were tested but your person who know MPlus can perform the manipulations to see if we got it right on the varous models  --- the data was collect sometime ago---2008-2012--the analysis was done around 2013- 2014-""",NA
+Nelson_JournConsRes_2009_eg1q,eg1q,yes_private,no,NA,NA,"""The data. We do not have the analysis script unfortunately, but as you will see, the data is Spartan enough that it shouldn’t be too challenging to create.""-- ok to share data",NA
+Robinson_EduRes_2010_g0XQ,g0XQ,no,no,NA,NA,did not reply to any of our emails,NA
+Liu_OrgBehavior_2016_jDWN,jDWN,yes_private,yes_private,NA,NA,NA,NA
+Nagengast_JournEduPsych_2014_ky28,ky28,yes_private,yes_private,NA,NA,"The link did not work for me. Also it looks like we may not have responded to the request for confirmation because the response is still a draft rather than sent. ""You can find the data and syntax required for reproducing the results reported in our paper under the following link:
+OneDrive for Business
+unitc-my.sharepoint.com
+odbfavicon.ico
+Please let me know if the link is not working or if there are further questions!
+I would also appreciate a confirmation of receipt of this message and our data and syntax."" --- Unfortunately the link now seems to be expired, but I would assume the link they sent would have actually contained the data and syntax as they indicated (shouldn't assume they sent us a link and told us we could find the data and syntax there if they didn't actually provide it - that would be strange) --- Decision: counts as data and code shared (privately)",NA
+Horvat_EurSocioRev_2011_lxXV,lxXV,no,no,NA,NA,did not reply to any of our emails,NA
+Bartels_JournConsRes_2015_mrZ,mrZ,yes_private,yes_private,NA,NA,"This one is interesting they wrote us new R code for the replication ""The analyses were conducted in SPSS, and we do not have the original script (it may be that this was run from the menu).  We had used this website for the test between two correlations: http://www.quantpsy.org/corrtest/corrtest.htm.  We are including new R code that we have written to replicate the analyses, for the sake of clarity."" --- Though the original analyses were conducted in SPSS and using a website, they wrote new R code for us to use to reproduce the analyses. So even tho not same stats tool as original analysis, still counts as sharing code to reproduce the analyses. (Also Asana indicates this was successfully reproduced.) --- Decision: counts as code shared (privately)",NA
+Fingerman_JournMarFam_2016_pqzK,pqzK,no,no,NA,NA,did not reply to any of our emails,NA
+Stice_JournConsClinPsy_2009_q4X2,q4X2,no,no,NA,NA,NA,NA
+Desmond_Demography_2015_qQ9Z,qQ9Z,no,no,NA,NA,did not reply to any of our emails,NA
+Welzel_BritJournPoliSci_2012_qgWj,qgWj,no,no,NA,NA,NA,NA
+Hofer_LearnInst_2012_rWbG,rWbG,no,no,NA,NA,NA,NA
+Chen_Demography_2018_yAPR,yAPR,yes_private,yes_private,yes,NA,"provided data, but also directed to a source data link that needs to be applied for ""Enclosed you will see the data and Stata syntax files requested to replicate the results in panel d of Table 3. In previous emails from your colleagues, I understand that you have already managed to obtain the LISS panel from CentERdata (https://www.lissdata.nl/​) and thus I attach the data to this email. However, if you have not applied for the usage of LISS panel, please first​ contact CentERdata for the authorization of the data usage before proceeding with the replication. "" --- confirmed that this is right; OA shared data and code and directed us where to download from the source",NA
+Surtees_HealthPsych_2010_yzgG,yzgG,yes_private,yes_private,NA,NA,"This one is complicated. You may need to read the full email chains to fully grasp what happened with this one ""Due to governance and ethical issues we have to be cautious when releasing datasets to external third parties. To mitigate concerns, we have a system in place which allows researchers to  remotely access the data for analyses, without the data actually leaving our systems. We can then provide researchers with their summary results on completion of their analysis. In order to do this we need to set up a visiting worker agreement and IT account, with the individual/s carrying out the analyses. I have included some further information regarding our In-Reach system along with an agreement form."" - OA provided data and code via remote system through their university - data request forms were filled out by PBR analyst.",NA
+Baxter_SocialForces_2015_z0v1,z0v1,no,no,NA,NA,NA,NA
+Mosimann_WorldPolitics_2017_z4dO,z4dO,no,no,NA,NA,NA,NA
+Denson_AmEduResJourn_2009_zb3Y,zb3Y,no,no,NA,NA,NA,NA
+Boehm_PsychologSci_2015_zlBL,zlBL,no,yes_private,yes,NA,"""The original data that we used in the 2015 article ""Variability Modifies Life Satisfaction’s Association With Mortality Risk in Older Adults” is publicly available from the Melbourne Institute: https://melbourneinstitute.unimelb.edu.au/hilda Typically user agreements do not allow end users like myself to share the data further; new researchers need to register and download the data themselves. I have also attached what I believe is the final analysis syntax in SAS. However, this was conducted by a collaborator who is no longer in academia and I do not have the necessary statistical program to double check everything. """,NA
+Zunick_JournExpSocPsych_2017_zlw,zlw,yes_private,yes_private,NA,NA,NA,NA
+Travers_ExChildren_2018_zqwm,zqwm,no,no,NA,NA,NA,NA
+Smith_AmJournSocio_2016_Peaa,Peaa,no,yes_private,yes,NA,"""Please find my data package attached. It includes a read me and all the code to replicate the results. 
+
+Please note that:
+1) The data package describes chapter 4 from my dissertation. This chapter is a slightly different version from the AJS article. The final code for the AJS is separately attached in the ""AJS"" folder. I'm sending you both because the data package from my dissertation is better annotated. I should have done that for the ASJ version too, but alas.
+2) Unfortunately, I cannot attach the data I used as you need to apply for it yourself. Read more about the data here and apply here. I used the full data, version 1.0.0. The full data are restricted and you can use them only on-site within the facilities of the Secure Data Center (SDC) of the GESIS Data Archive for the Social Sciences in Cologne, Germany. That said, I think you can use the reduced data and run the code and it will probably work.""",NA
+Kollmeyer_AmJournSocio_2009_EJpm,EJpm,no,no,NA,NA,did not reply to any of our emails,NA
+Park_Demography_2010_ZdgL,ZdgL,no,no,NA,NA,did not reply to any of our emails,NA
+Rodriguez-Lara_ExpEco_2012_AgO1,AgO1,yes_private,no,NA,NA,"""I am not sure which is the material I sent you at the beginning but I have been checking my computer and I do not have anything from this project except for the data (attached)""",NA
+Stambaugh_JournFinEco_2012_YRvg,YRvg,no,no,NA,NA,NA,NA
+Seaton_AmEduResJourn_2010_Blxd,Blxd,no,no,NA,NA,did not reply to any of our emails,NA
+Zakharova_CompPolitStu_2014_qYr7,qYr7,no,no,NA,NA,NA,NA
+Goerg_JournLabEco_2010_WLpV,WLpV,yes_private,no,NA,NA,"""many thanks for all your efforts and the interesting SCORE-program. I checked with my co-authors, who did most of the analyses, and attached you will find the STATA-data file that includes both the original treatments as well as the treatment that was added during the revision phase of the paper. """,NA
+Sandra_Cognition_2018_0qar,0qar,available,no,NA,NA,"""Thanks for letting me know. Between the raw data (on OSF) and the methods described in the paper, I think that should be enough for a direct replication.""",NA
+Baker_WorldPolitics_2011_9lBL,9lBL,available,yes_private,NA,NA,"""I have attached a compressed file that contains all of the files (.dta), code (WP_Final.do), and output (WP_Final_2018.txt).  """,NA
+Alves_PsychologSci_2018_AvOr,AvOr,available,yes_private,NA,NA,"I don't know if this would count since it is written in the email and not a functional attachment""Here is the analysis code for Experiment 1 in SPSS.
+
+
+DATASET ACTIVATE Exp1.
+CROSSTABS
+   /TABLES=condition BY preference_first
+   /FORMAT=AVALUE TABLES
+   /STATISTICS=CHISQ
+   /CELLS=COUNT
+   /COUNT ROUND CELL.
+
+Note that the analysis reported in the paper refers to Pearson Chi Square.
+
+I hope this helps!"" - Counting this as code shared as it seems to be complete syntax and we were able to perform PBR.",NA
+Steinmetz_JournPerSocPsy_2016_E4Am,E4Am,available,yes_private,NA,NA,Could you double check this one. I couldn't find any code but it didn't look like you or Krystal sent out an email asking for it so I just want to make sure - Looks like complete SPSS syntax was sent in the body of an email; counting as code shared,NA
+Hansen_JournExpSocPsych_2014_EAa,EAa,available,no,NA,NA,NA,NA
+Pastötter_Cognition_2013_EQxa,EQxa,available,no,NA,NA,"""thanks for your e-mail. My students and I did the analysis with SPSS. The calculations were pretty straightforward, so we did not save any code or syntax.""",NA
+Shahar_JournConflictRes_2018_J0Yv,J0Yv,available,no,NA,NA,did not respond to any of our emails,NA
+Cingranelli_BritJournPoliSci_2014_qg47,qg47,available,no,NA,NA,did not respond to any of our emails,NA
+Robertson_BritJournPoliSci_2017_qggQ,qggQ,available,no,NA,NA,NA,NA
+Wlezien_CompPolitStu_2017_ByBk,ByBk,yes_private,available,NA,NA,"""Here is the data set *and* the full code to run everything.""",NA
+Petersen_Cognition_2017_yJwG,yJwG,available,no,NA,NA,did not respond to any of our emails,NA
+Hurst_EvoHumanBehavior_2017_yypJ,yypJ,available,no,NA,NA,""" I have attached a pdf version of the survey. It seems that we did not save the syntax for coding or scoring the raw data""",NA
+Ohtsubo_EvoHumanBehavior_2014_zlm2,zlm2,available,NA,NA,NA,Gave materials to us on dropbox but the link is now broken. The materials are also apparently in Japanese according to the author - The materials included materials to conduct the experiment but not analyze the data. The OA also shared the data with us though it was already available on the publisher site. So no code was shared.,NA
+Goeree_Econometrica_2011_1574,1574,available,no,NA,NA,"""While I am generally happy to share whatever I have, the original programs for analyzing the data were written in Gauss, and I no longer use Gauss or have it installed on any of my computers at home. I am wary of sending you random programs, which are now nearly 15 years old (this paper took a while to write!).""",NA
+Rinaldi_Cognition_2016_Kj9d,Kj9d,available,no,NA,NA,"""Unfortunately, we have not stored any code/syntax for data analysis.""",NA
+Pana_covid_p2qE,p2qE,available,no,NA,NA,"I did not find a PR email-- looks like Bri is the only one that sent an email, however, they did not respond - OA email may not have been sent yet when this was coded but we did send email in 2023 asking for code and there was no response.",NA
+Carrillo_Vega_covid_wxQZ,wxQZ,available,no,NA,NA,did not respond to any of our emails,NA
+Pennycook_covid_7NEL,7NEL,available,yes_private,NA,NA,"""I've attached two files with code. The first has analyses run in R (by Jon) and the second has the data processing (e.g., creating scale means, etc.) in SPSS. The analyses themselves are pretty straightforward, but let me know if anything is unclear.""",NA
+Elmer_covid_BN8d,BN8d,available,yes_private,NA,NA,"""The necessary code is in the attachment. It runs directly on the objects contained in anon_data.Rdata in the OSF project.""-- This person has asked multiple times for an update on the project",NA
+Cavojova_covid_E3ja,E3ja,available,yes_private,NA,NA,"""fortunately, we can send you the data and the syntax as we prepared it for the submission, as well. However, please note that the syntax relates to the revised version of the manuscript, so there might be small differences from the pre-print. """,NA
+Stanley_covid_b3G4,b3G4,available,no,NA,NA,"They do say everything is available so if you want to just double check this to make sure I would appreciate it. ""All that said, we are all very much in favour of open science, replicability, and associated practices that improve psychological science, and we regularly preregister our studies, cooperate in replication attempts, and openly share our data/materials; so, we're more than happy to provide any materials and/or data requested (most, if not all of these should already be available on the OSF, but if anything else is required, please let us know). However, we maintain that rerunning the study now will in no way establish a replication (be it direct or indirect)."" - yep looks like no code was shared just data",NA
+Sweeny_covid_2Nzk,2Nzk,available,yes_private,NA,NA,"""Attached is our SAS file with the exact code I used for our analyses. I realize SAS isn't exactly transparent, so let me know if it's unclear what variables we used. I'm also attaching the data files that are ""called"" by the SAS code.""",NA
+Fielding_Miller_covid_R3pV,R3pV,no,no,NA,NA,"Indicated they were going to send code but I then did not find it ""Of course…the code takes a minute to run since spatial regressions are a bit intensive. I’ll send it on in a bit. Would it help if I sent you my code as well? I used Stata 16.""",NA
+Gonzalez_Marron_covid_W3vN,W3vN,no,no,NA,NA,No PR email-- did not respond to any of our emails,NA
+Hossain_covid_b344,b344,no,no,NA,NA,NA,NA
+Kuratani_covid_0DO8,0DO8,no,no,NA,NA,NA,NA
+Messner_covid_j51N,j51N,no,no,NA,NA,NA,NA
+Du_covid_2NAG,2NAG,no,no,NA,NA,did not respond to any of our emails,NA
+Rothgerber_covid_BNrd,BNrd,no,no,NA,NA,NA,NA
+Siedner_covid_P3NJ,P3NJ,yes_private,yes_private,NA,NA,NA,NA
+Plohl_covid_W3vr,W3vr,yes_private,yes_private,NA,NA,NA,NA
+Djulbegovic_covid_gA8z,gA8z,yes_private,yes_private,NA,NA,NA,NA
+Malik_covid_wx5k,wx5k,yes_private,yes_private,NA,NA,"""We are huge proponents of research reproducibility efforts and are happy to share data and analytic code. Please find attached instructions and all relevant files.""",NA
+Yoo_PsychologSci_2017_BebG,BebG,yes_private,yes_private,NA,NA,"""I am attaching the code for my analysis and the data here and have explained what each file is in the google doc document. 
+Please let me know if you need anything else from me""",NA
+BATESON_AmPoliSciRev_2012_RYKv,RYKv,no,no,NA,NA,did not respond to any of our emails-- no PR email,NA
+Wang_AmEcoJourn_2013_7d4J,7d4J,no,no,NA,NA,did not respond to any of our emails-- no PR email,NA
+Hertel_ClinPsychSci_2018_YabW,YabW,yes_private,yes_private,NA,NA,"This one has ""SPSS output"". I couldn't open the file to see what that entails --- Even though a syntax file wasn't shared, an output file was shared which should contain the spss syntax, so although not in a reproducible format this will count as sharing code",NA
+Flesia_covid_P39Z,P39Z,no,no,NA,NA,did not respond to any of our emails-- no PR email,NA
+Gelfand_covid_R3eV,R3eV,available,available,NA,NA,"This one is funky. Andrew forwarded a long email thread between them where attached files are mentioned but I can't seem to find them --- Not sure what to do with this one yet - looks like the data and code were previously available on OSF but the OSF project has since been made private, so not sure how to code this for PR and OA. I'm inclined to think we leave as both data and code availalbe for PR and 'available' for both for OA? But not sure",HELP
